@@ -1,4 +1,5 @@
-Objective is to Automate logs parsing and provide hints / solution
+#Objective is to Automate logs parsing and provide hints / solution
+
 
 Example run:
 
